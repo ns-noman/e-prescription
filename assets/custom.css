@@ -1,0 +1,10 @@
+/*report table*/
+.table_report>tbody>tr>td{
+    padding: 0px;
+}
+
+
+.table_report{
+	margin-bottom: 0px;
+}
+
